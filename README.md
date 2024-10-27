@@ -5,8 +5,10 @@
 
 ## About me
 
-I'm **Enoque Leal**, a Software Developer with more than 9 years of experience, enthusiast of new technologies and Systems Analysis graduate from Senac University.
+I'm **Enoque Leal**, a passionate Software Developer Engineer with more 14 years of experience.
 
-- My favorite programming languages are **Java** and **Python**.
+I consider myself an enthusiast of new technologies and currently have a degree in Systems Analysis from Senac and a postgraduate degree in software technology from the Polytechnic School of USP.
 
-Learn more about me at [enoqueleal.com](https://enoqueleal.com)
+- My favorite programming languages are **Java** and **Go**.
+
+Learn more about me at [enoqueleal.github.io](https://enoqueleal.github.io/)
